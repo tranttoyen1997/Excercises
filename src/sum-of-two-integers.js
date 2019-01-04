@@ -8,7 +8,7 @@
  * @return {number}
  */
 var getSum = function(a, b) {
-    if(b==0){
+    if (b==0) {
         return a;
     }
     else {
